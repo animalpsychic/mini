@@ -1,3 +1,8 @@
+---
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+---
 
 
 # The Secrets to Unlocking Your Psychic Ability
