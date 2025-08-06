@@ -10,7 +10,7 @@ tags:
 
 toc: true
 toc_label: "Daftar isi:"
-author_profile: false
+
 
 ---
 
