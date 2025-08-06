@@ -7,10 +7,9 @@ tags:
   - Post Formats
   - readability
   - standard
-This post has been updated and should show a modified date if used in a layout.
+
 toc: true
 toc_label: "Daftar isi:"
-
 
 ---
 
