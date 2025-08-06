@@ -24,13 +24,13 @@ Berikut ini hampir semua yang Anda butuhkan untuk mendesain tema. Periksa kode s
 Teks isiTautan permanen
 Lorem ipsum dolor sit amet, uji tautan adipiscing elit. Ini kuat . Nullam dignissim convallis est.quisque alikuam.
 
-## Gambar Smithsonian
+# Gambar Smithsonian
 
 Hal ini ditekankan . Selesai faucibus. Nunc iaculis suscipit dui. 53 = 125. Air adalah H2O. Nam duduk amet sem. Aliquam libero nisi, imperdiet di, tincidunt nec, gravida vehicula, nisl. The New York Times (Itu kutipannya). Garis bawahi.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris taruhannya. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
 HTML dan CSS adalah alat kami. Mauris taruhannya. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
-## Kutipan blokTautan permanen
+# Kutipan blokTautan permanen
 
 Lorem ipsum dolor sit amet, uji tautan adipiscing elit. Nullam dignissim convallis est.quisque alikuam.
 
