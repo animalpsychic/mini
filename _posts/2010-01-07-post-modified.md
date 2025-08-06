@@ -31,4 +31,28 @@ Hal ini ditekankan . Selesai faucibus. Nunc iaculis suscipit dui. 53 = 125. Air 
 HTML dan CSS adalah alat kami. Mauris taruhannya. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
 
 ## Kutipan blokTautan permanen
+
+<div id="floating-ad">
+  <a href="https://linkiklan.com" target="_blank">🌟 Promo spesial klik di sini!</a>
+</div>
+
+<style>
+#floating-ad {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.15);
+  z-index: 9999;
+}
+#floating-ad a {
+  color: #b30000;
+  font-weight: bold;
+  text-decoration: none;
+}
+</style>
+
 Lorem ipsum dolor sit amet, uji tautan adipiscing elit. Nullam dignissim convallis est.quisque alikuam.
